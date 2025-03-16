@@ -13,9 +13,9 @@ WeHER is an AI-powered healthcare assistant designed specifically for women's he
 
 *Dataset Components*
 
-> Demographic Data: Age, weight, BMI, height, and lifestyle habits.
-> Medical History: Previous diagnoses, family history of diseases, menstrual cycle details.
-> Symptoms & Test Results:
+Demographic Data: Age, weight, BMI, height, and lifestyle habits.
+Medical History: Previous diagnoses, family history of diseases, menstrual cycle details.
+Symptoms & Test Results:
   i) PCOS: Irregular periods, acne, hair growth, hormone levels.
   ii) Anemia: Hemoglobin levels, RBC count, iron levels, fatigue symptoms.
   iii) Obesity: BMI, diet patterns, physical activity level.
